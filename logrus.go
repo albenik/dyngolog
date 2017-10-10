@@ -1,4 +1,4 @@
-package dynlog
+package dyngolog
 
 import (
 	"github.com/sirupsen/logrus"
